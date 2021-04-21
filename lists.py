@@ -1,4 +1,5 @@
 shopping_list = ["eggs", "milk", "bread", 40, 5.7]
+word_list = ['Word', 'another', 'other', 'something']
 shopping_list[0] = "chocolate"
 
 # print(shopping_list)
