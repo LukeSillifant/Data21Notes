@@ -1,6 +1,6 @@
 import sqlalchemy
 
-server = 'localhost,1443'
+server = 'localhost,1433'
 database = 'Northwind'
 user = 'SA'
 password = 'Passw0rd2018'
